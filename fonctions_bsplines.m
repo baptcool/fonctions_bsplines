@@ -1,4 +1,4 @@
-% MILLOT & DUCHANGE
+
 
 function [] = fonctions_bsplines(t,m,color)
   
